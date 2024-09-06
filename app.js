@@ -29,11 +29,12 @@ function pesquisar() {
                 </div>
             `;
         }
-        if (!campoPesquisa || !resultados) {
-            section.innerHTML = `<p>Nada foi encontrado</p>`
-            return;
-        }
+       
         campoPesquisa = campoPesquisa.toLowerCase()
+    }
+    if (!campoPesquisa || !resultados) {
+        section.innerHTML = `<p>Nada foi encontrado</p>`
+        return;
     }
     section.innerHTML = resultados;
 }
