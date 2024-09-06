@@ -33,7 +33,7 @@ let dados = [
     },
     {
         titulo: "Levi Ackerman",
-        imagem: "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Levi_Ackermann_%28Anime%29_character_image_%28854%29.png/revision/latest/scale-to-width/360?cb=20231106070611",
+        imagem: "https://i.pinimg.com/736x/9d/08/72/9d0872dda6fa099e2e5f5e007f83e2be.jpg",
         alt: "Levi Ackerman Icon",
         descricao: "Levi Ackerman é um dos personagens mais icônicos de Attack on Titan, conhecido como o soldado mais forte da humanidade. Com habilidades de combate excepcionais e uma personalidade fria e direta, Levi lidera o Esquadrão de Operações Especiais da Tropa de Exploração. Apesar de sua postura rígida e implacável no campo de batalha, ele tem um forte senso de justiça e uma profunda lealdade aos seus companheiros. Sua história revela um passado difícil, moldando-o em um guerreiro que luta incansavelmente pela sobrevivência da humanidade.",
         link: "https://attackontitan.fandom.com/pt-br/wiki/Levi_Ackerman_(Anime)",
