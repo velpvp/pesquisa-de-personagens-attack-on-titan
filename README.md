@@ -1,6 +1,8 @@
-# Attack on Titan Character Search
+# Pesquisa de Personagens de Attack on Titan
 
-Este projeto foi desenvolvido durante a **Imersão Dev** com o Gemini, promovida pela Alura. O objetivo do projeto é criar um site onde os usuários possam pesquisar por personagens do anime e mangá **Attack on Titan**.
+Este projeto foi desenvolvido durante a **Imersão Dev** com o Gemini, promovida pela Alura. 
+
+O site permite que os usuários busquem personagens do anime **Attack on Titan**, exibindo informações detalhadas como imagem, descrição e links para mais detalhes sobre cada personagem.
 
 ## 🚀 Funcionalidades
 
